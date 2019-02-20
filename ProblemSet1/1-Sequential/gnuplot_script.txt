@@ -1,0 +1,3 @@
+set palette grey 
+set palette negative 
+plot 'bitmap_1_4.txt' matrix with image 
